@@ -1,0 +1,9 @@
+# Python caches
+__pycache__
+.pytest_cache
+
+# Images
+*.png
+
+# Profiling files
+*.dat

@@ -1,0 +1,14 @@
+{
+    "community": ["A"],
+    "behaviour": ["food_shopping", "small_gathering", "large_gathering"],
+    "num_visits": {
+        "food_shopping": [3, 7], 
+        "small_gathering": [1, 3], 
+        "large_gathering": [1]
+    },
+    "num_people": {
+        "food_shopping": [5], 
+        "small_gathering": [3], 
+        "large_gathering": [20]
+    }
+}

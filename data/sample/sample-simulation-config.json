@@ -1,0 +1,13 @@
+{
+    "time_horizon": 56,
+    "num_infected": 2,
+    "graph_config": {
+        "name": "navigable_small_world",
+        "params": {
+            "short_connection_diameter": 2,
+            "long_connection_diameter": 1,
+            "decay": 2
+        },
+        "closeness_threshold": 3
+    }
+}

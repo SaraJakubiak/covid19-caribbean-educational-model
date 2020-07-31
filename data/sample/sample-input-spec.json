@@ -1,0 +1,7 @@
+{
+    "app_input_filename": "data/sample/sample-app-input.json",
+    "app_input_values_filename": "data/sample/sample-app-input-values.json",
+    "community_data_filename": "data/sample/sample-community-data.json",
+    "infection_data_filename": "data/sample/sample-infection-data.json",
+    "simulation_config_filename": "data/sample/sample-simulation-config.json"
+}
